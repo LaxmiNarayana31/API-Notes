@@ -1,4 +1,4 @@
-# API Quick Reference
+# API Quick Reference 
 
 ### HTTP Verbs
 
@@ -135,11 +135,5 @@
 - **RESTful API Modeling Language (RAML)**: A YAML-based language for describing RESTful APIs developed by MuleSoft
 - **JSON API**: A specification for building APIs that use JSON as the data format.
 
-### API Infrastructure
 
-- **Kubernetes**: An open-source platform for managing containerized workloads and services
-- **OpenShift**: A container application platform that builds on top of Kubernetes
-- **Docker Swarm**: A native clustering and orchestration solution for Docker
-- **Consul**: A service mesh solution that provides service discovery, configuration, and segmentation capabilities
-- **Istio**: A service mesh solution that provides traffic management, security, and observability capabilities.
 
